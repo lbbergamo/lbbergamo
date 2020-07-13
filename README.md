@@ -1,0 +1,5 @@
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=lbbergamo.visitor-badge)](https://github.com/lbbergamo)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caioagiani)](https://github.com/lbbergamo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-bergamo/)](https://www.linkedin.com/in/leandro-bergamo/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandro.bergamo@hotmail.com)](mailto:leandro.bergamo@hotmail.com)
+[![Telegram Badge](https://img.shields.io/github/followers/lbbergamo?style=social)](https://github.com/lbbergamo)
